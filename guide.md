@@ -20,7 +20,7 @@ Heureusement nous sommes là pour vous, et voici donc notre **Guide Hardenning**
 ## Sommaire
 
 ### Système
-1. Gérer les packages (dpkg --list dpkg --info packageName apt-get remove packageName)
+1. Gérer les packages
 2. fail2ban
 3. Sécuriser le service SSH 
 4. Désactiver IPv6 
